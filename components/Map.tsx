@@ -85,7 +85,7 @@ return(
 >
        
     <TileLayer 
-        attribution='&copy; <a href="https://github.com/anoncoderin/expo-line-leaflet.git"> By Madhu</a> contributors'
+        attribution='&copy; <a href="https://github.com/anoncoderin/expo-line-leaflet"> By Madhu</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         
     />
